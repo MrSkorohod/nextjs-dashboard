@@ -1,4 +1,4 @@
-import CardWrapper, { Card } from "../../ui/dashboard/cards";
+import CardWrapper from "../../ui/dashboard/cards";
 import RevenueChart from '@/app/ui/dashboard/revenue-chart';
 import LatestInvoices from '@/app/ui/dashboard/latest-invoices';
 import { lusitana } from "../../ui/fonts";
